@@ -1,4 +1,4 @@
-# Ocean's Overlook - Endangered Animals Conservation Website
+# Ocean Overland - Endangered Animals Conservation Website
 
 A comprehensive web platform dedicated to raising awareness about endangered animals through education, gamification, and e-commerce. Every purchase supports wildlife conservation efforts worldwide.
 
@@ -71,7 +71,7 @@ A comprehensive web platform dedicated to raising awareness about endangered ani
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd oceansoverlook
+   cd oceanoverland
    ```
 
 2. **Install dependencies**
@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions or support:
-- **Email**: support@oceansoverlook.com
+- **Email**: support@oceanoverland.com
 - **Conservation Hotline**: 1-800-SAVE-WILD
 - **GitHub Issues**: Report bugs or request features
 

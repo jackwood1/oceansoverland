@@ -1,7 +1,7 @@
 {
-  "name": "oceans-overlook",
+  "name": "oceanoverland",
   "version": "1.0.0",
-  "description": "Endangered Animals Conservation Website with Gamification and E-commerce",
+  "description": "Ocean Overland - Endangered Animals Conservation Website with Gamification and E-commerce",
   "private": true,
   "dependencies": {
     "@types/node": "^18.0.0",

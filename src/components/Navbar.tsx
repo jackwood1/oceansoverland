@@ -23,7 +23,7 @@ const Navbar: React.FC = () => {
             <div className="w-8 h-8 bg-gradient-to-r from-ocean-500 to-forest-500 rounded-lg flex items-center justify-center">
               <Leaf className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-800">Ocean's Overlook</span>
+            <span className="text-xl font-bold text-gray-800">Ocean Overland</span>
           </Link>
 
           {/* Desktop Navigation */}

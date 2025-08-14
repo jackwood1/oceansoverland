@@ -111,7 +111,7 @@ const Home: React.FC = () => {
             className="text-center mb-16"
           >
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-              Why Choose Ocean's Overlook?
+              Why Choose Ocean Overland?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               We combine education, entertainment, and conservation to create a meaningful impact 

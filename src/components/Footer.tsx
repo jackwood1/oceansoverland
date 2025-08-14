@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="w-8 h-8 bg-gradient-to-r from-ocean-500 to-forest-500 rounded-lg flex items-center justify-center">
                 <Leaf className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold">Ocean's Overlook</span>
+              <span className="text-xl font-bold">Ocean Overland</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Dedicated to raising awareness about endangered animals through education, 
@@ -63,10 +63,10 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact & Support</h3>
             <ul className="space-y-2">
-              <li className="flex items-center space-x-2 text-gray-300">
-                <Mail className="w-4 h-4" />
-                <span>support@oceansoverlook.com</span>
-              </li>
+                              <li className="flex items-center space-x-2 text-gray-300">
+                  <Mail className="w-4 h-4" />
+                  <span>support@oceanoverland.com</span>
+                </li>
               <li className="text-gray-300">
                 Conservation Hotline: 1-800-SAVE-WILD
               </li>
@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Ocean's Overlook. All rights reserved.
+            © 2024 Ocean Overland. All rights reserved.
           </p>
           <div className="flex items-center space-x-2 text-gray-400 text-sm mt-4 md:mt-0">
             <span>Made with</span>
