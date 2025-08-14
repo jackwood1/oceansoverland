@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ocean Wave -->
+  <path d="M2 20C4 18 8 16 12 18C16 20 20 24 24 22C28 20 30 18 30 20C30 22 28 24 24 26C20 28 16 26 12 24C8 22 4 24 2 22V20Z" fill="#0EA5E9"/>
+  
+  <!-- Leaf/Plant -->
+  <path d="M16 8C18 6 20 8 18 12C16 16 14 18 12 16C10 14 12 10 16 8Z" fill="#22C55E"/>
+  
+  <!-- Mountain -->
+  <path d="M8 28L12 24L16 26L20 24L24 28H8Z" fill="#6B7280"/>
+</svg>

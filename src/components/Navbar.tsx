@@ -20,9 +20,7 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-r from-ocean-500 to-forest-500 rounded-lg flex items-center justify-center">
-              <Leaf className="w-5 h-5 text-white" />
-            </div>
+            <img src="/assets/logo.svg" alt="Ocean Overland Logo" className="w-8 h-8" />
             <span className="text-xl font-bold text-gray-800">Ocean Overland</span>
           </Link>
 

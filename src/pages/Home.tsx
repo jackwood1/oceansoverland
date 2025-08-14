@@ -88,7 +88,7 @@ const Home: React.FC = () => {
               <div className="relative z-10">
                 <div className="w-full h-96 bg-gradient-to-br from-ocean-400 to-forest-500 rounded-2xl shadow-2xl flex items-center justify-center">
                   <div className="text-center">
-                    <Fish className="w-24 h-24 mx-auto mb-4 text-white opacity-80" />
+                    <img src="/assets/logo-large.svg" alt="Ocean Overland Logo" className="w-24 h-24 mx-auto mb-4 opacity-80" />
                     <p className="text-xl font-semibold">Interactive Wildlife Experience</p>
                   </div>
                 </div>
